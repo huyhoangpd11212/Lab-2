@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Back_End\\Lab1,2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\huyho\\AppData\\Local\\Temp\\.vsdbgsrc\\94b8c32fe679ee6d853a3e6679c4d8cfa1b41b5bb36c1c479429460c085356c0\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56324B87-DB7B-4271-BC88-3D791FD15631}|Lab1.csproj|d:\\back_end\\lab1,2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56324B87-DB7B-4271-BC88-3D791FD15631}|Lab1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56324B87-DB7B-4271-BC88-3D791FD15631}|Lab1.csproj|d:\\back_end\\lab1,2\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56324B87-DB7B-4271-BC88-3D791FD15631}|Lab1.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56324B87-DB7B-4271-BC88-3D791FD15631}|Lab1.csproj|d:\\back_end\\lab1,2\\models\\apigamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56324B87-DB7B-4271-BC88-3D791FD15631}|Lab1.csproj|solutionrelative:models\\apigamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56324B87-DB7B-4271-BC88-3D791FD15631}|Lab1.csproj|d:\\back_end\\lab1,2\\models\\responseapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56324B87-DB7B-4271-BC88-3D791FD15631}|Lab1.csproj|solutionrelative:models\\responseapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56324B87-DB7B-4271-BC88-3D791FD15631}|Lab1.csproj|d:\\back_end\\lab1,2\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56324B87-DB7B-4271-BC88-3D791FD15631}|Lab1.csproj|solutionrelative:dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56324B87-DB7B-4271-BC88-3D791FD15631}|Lab1.csproj|d:\\back_end\\lab1,2\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56324B87-DB7B-4271-BC88-3D791FD15631}|Lab1.csproj|solutionrelative:models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56324B87-DB7B-4271-BC88-3D791FD15631}|Lab1.csproj|d:\\back_end\\lab1,2\\models\\levelresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56324B87-DB7B-4271-BC88-3D791FD15631}|Lab1.csproj|solutionrelative:models\\levelresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56324B87-DB7B-4271-BC88-3D791FD15631}|Lab1.csproj|d:\\back_end\\lab1,2\\migrations\\20241109082219_addmodelsgametodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56324B87-DB7B-4271-BC88-3D791FD15631}|Lab1.csproj|solutionrelative:migrations\\20241109082219_addmodelsgametodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56324B87-DB7B-4271-BC88-3D791FD15631}|Lab1.csproj|d:\\back_end\\lab1,2\\models\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56324B87-DB7B-4271-BC88-3D791FD15631}|Lab1.csproj|solutionrelative:models\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56324B87-DB7B-4271-BC88-3D791FD15631}|Lab1.csproj|d:\\back_end\\lab1,2\\models\\gamelevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56324B87-DB7B-4271-BC88-3D791FD15631}|Lab1.csproj|solutionrelative:models\\gamelevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56324B87-DB7B-4271-BC88-3D791FD15631}|Lab1.csproj|d:\\back_end\\lab1,2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{56324B87-DB7B-4271-BC88-3D791FD15631}|Lab1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56324B87-DB7B-4271-BC88-3D791FD15631}|Lab1.csproj|d:\\back_end\\lab1,2\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56324B87-DB7B-4271-BC88-3D791FD15631}|Lab1.csproj|solutionrelative:models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56324B87-DB7B-4271-BC88-3D791FD15631}|Lab1.csproj|d:\\back_end\\lab1,2\\models\\lab1model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56324B87-DB7B-4271-BC88-3D791FD15631}|Lab1.csproj|solutionrelative:models\\lab1model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56324B87-DB7B-4271-BC88-3D791FD15631}|Lab1.csproj|d:\\back_end\\lab1,2\\controllers\\lab1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56324B87-DB7B-4271-BC88-3D791FD15631}|Lab1.csproj|solutionrelative:controllers\\lab1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56324B87-DB7B-4271-BC88-3D791FD15631}|Lab1.csproj|d:\\back_end\\lab1,2\\migrations\\20241112085843_user_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56324B87-DB7B-4271-BC88-3D791FD15631}|Lab1.csproj|solutionrelative:migrations\\20241112085843_user_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56324B87-DB7B-4271-BC88-3D791FD15631}|Lab1.csproj|d:\\back_end\\lab1,2\\migrations\\20241112085616_addusermodeltodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56324B87-DB7B-4271-BC88-3D791FD15631}|Lab1.csproj|solutionrelative:migrations\\20241112085616_addusermodeltodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\huyho\\AppData\\Local\\Temp\\.vsdbgsrc\\94b8c32fe679ee6d853a3e6679c4d8cfa1b41b5bb36c1c479429460c085356c0\\Program.cs",
+              "ToolTip": "C:\\Users\\huyho\\AppData\\Local\\Temp\\.vsdbgsrc\\94b8c32fe679ee6d853a3e6679c4d8cfa1b41b5bb36c1c479429460c085356c0\\Program.cs [Read Only]",
+              "ViewState": "AQIAAAQAAAAAAAAAAAArwBEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T06:51:08.665Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "APIGameController.cs",
+              "DocumentMoniker": "D:\\Back_End\\Lab1,2\\Models\\APIGameController.cs",
+              "RelativeDocumentMoniker": "Models\\APIGameController.cs",
+              "ToolTip": "D:\\Back_End\\Lab1,2\\Models\\APIGameController.cs",
+              "RelativeToolTip": "Models\\APIGameController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAIwDMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T07:31:35.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "D:\\Back_End\\Lab1,2\\DTO\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\RegisterDTO.cs",
+              "ToolTip": "D:\\Back_End\\Lab1,2\\DTO\\RegisterDTO.cs",
+              "RelativeToolTip": "DTO\\RegisterDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T07:28:18.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ResponseApi.cs",
+              "DocumentMoniker": "D:\\Back_End\\Lab1,2\\Models\\ResponseApi.cs",
+              "RelativeDocumentMoniker": "Models\\ResponseApi.cs",
+              "ToolTip": "D:\\Back_End\\Lab1,2\\Models\\ResponseApi.cs",
+              "RelativeToolTip": "Models\\ResponseApi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T07:20:27.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LevelResult.cs",
+              "DocumentMoniker": "D:\\Back_End\\Lab1,2\\Models\\LevelResult.cs",
+              "RelativeDocumentMoniker": "Models\\LevelResult.cs",
+              "ToolTip": "D:\\Back_End\\Lab1,2\\Models\\LevelResult.cs",
+              "RelativeToolTip": "Models\\LevelResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T09:01:24.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20241112085843_User_Data.cs",
+              "DocumentMoniker": "D:\\Back_End\\Lab1,2\\Migrations\\20241112085843_User_Data.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241112085843_User_Data.cs",
+              "ToolTip": "D:\\Back_End\\Lab1,2\\Migrations\\20241112085843_User_Data.cs",
+              "RelativeToolTip": "Migrations\\20241112085843_User_Data.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAQwBEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T08:58:43.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Back_End\\Lab1,2\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Back_End\\Lab1,2\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T08:41:44.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Back_End\\Lab1,2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Back_End\\Lab1,2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T08:45:13.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20241112085616_addUserModelToDb.cs",
+              "DocumentMoniker": "D:\\Back_End\\Lab1,2\\Migrations\\20241112085616_addUserModelToDb.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241112085616_addUserModelToDb.cs",
+              "ToolTip": "D:\\Back_End\\Lab1,2\\Migrations\\20241112085616_addUserModelToDb.cs",
+              "RelativeToolTip": "Migrations\\20241112085616_addUserModelToDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T08:56:17.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\Back_End\\Lab1,2\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationUser.cs",
+              "ToolTip": "D:\\Back_End\\Lab1,2\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T08:24:02.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20241109082219_addModelsGameToDb.cs",
+              "DocumentMoniker": "D:\\Back_End\\Lab1,2\\Migrations\\20241109082219_addModelsGameToDb.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241109082219_addModelsGameToDb.cs",
+              "ToolTip": "D:\\Back_End\\Lab1,2\\Migrations\\20241109082219_addModelsGameToDb.cs",
+              "RelativeToolTip": "Migrations\\20241109082219_addModelsGameToDb.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwBcAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T08:22:19.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Region.cs",
+              "DocumentMoniker": "D:\\Back_End\\Lab1,2\\Models\\Region.cs",
+              "RelativeDocumentMoniker": "Models\\Region.cs",
+              "ToolTip": "D:\\Back_End\\Lab1,2\\Models\\Region.cs",
+              "RelativeToolTip": "Models\\Region.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T08:14:36.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GameLevel.cs",
+              "DocumentMoniker": "D:\\Back_End\\Lab1,2\\Models\\GameLevel.cs",
+              "RelativeDocumentMoniker": "Models\\GameLevel.cs",
+              "ToolTip": "D:\\Back_End\\Lab1,2\\Models\\GameLevel.cs",
+              "RelativeToolTip": "Models\\GameLevel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T08:11:58.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Back_End\\Lab1,2\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Back_End\\Lab1,2\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-07T08:32:20.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Question.cs",
+              "DocumentMoniker": "D:\\Back_End\\Lab1,2\\Models\\Question.cs",
+              "RelativeDocumentMoniker": "Models\\Question.cs",
+              "ToolTip": "D:\\Back_End\\Lab1,2\\Models\\Question.cs",
+              "RelativeToolTip": "Models\\Question.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T08:16:30.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Lab1Model.cs",
+              "DocumentMoniker": "D:\\Back_End\\Lab1,2\\Models\\Lab1Model.cs",
+              "RelativeDocumentMoniker": "Models\\Lab1Model.cs",
+              "ToolTip": "D:\\Back_End\\Lab1,2\\Models\\Lab1Model.cs",
+              "RelativeToolTip": "Models\\Lab1Model.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T08:11:46.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Lab1Controller.cs",
+              "DocumentMoniker": "D:\\Back_End\\Lab1,2\\Controllers\\Lab1Controller.cs",
+              "RelativeDocumentMoniker": "Controllers\\Lab1Controller.cs",
+              "ToolTip": "D:\\Back_End\\Lab1,2\\Controllers\\Lab1Controller.cs",
+              "RelativeToolTip": "Controllers\\Lab1Controller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T08:10:00.795Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
